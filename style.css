@@ -24,13 +24,13 @@ body {
   padding: 20px 30px;
 }
 
-#quote {
+.quote-text {
   font-size: 1.7rem;
   font-weight: 700;
 }
 
 .long-quote {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 .fa-quote-left {
